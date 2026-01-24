@@ -1,0 +1,60 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="absl-py" />
+          <option value="astunparse" />
+          <option value="cachetools" />
+          <option value="certifi" />
+          <option value="charset-normalizer" />
+          <option value="distlib" />
+          <option value="filelock" />
+          <option value="flatbuffers" />
+          <option value="gast" />
+          <option value="google-auth" />
+          <option value="google-auth-oauthlib" />
+          <option value="google-pasta" />
+          <option value="grpcio" />
+          <option value="h5py" />
+          <option value="idna" />
+          <option value="jax" />
+          <option value="jaxlib" />
+          <option value="keras" />
+          <option value="libclang" />
+          <option value="Markdown" />
+          <option value="MarkupSafe" />
+          <option value="ml_dtypes" />
+          <option value="numpy" />
+          <option value="oauthlib" />
+          <option value="opt_einsum" />
+          <option value="packaging" />
+          <option value="platformdirs" />
+          <option value="protobuf" />
+          <option value="pyasn1" />
+          <option value="pyasn1_modules" />
+          <option value="pyenv-inspect" />
+          <option value="requests" />
+          <option value="requests-oauthlib" />
+          <option value="rsa" />
+          <option value="scipy" />
+          <option value="six" />
+          <option value="tensorboard" />
+          <option value="tensorboard-data-server" />
+          <option value="tensorflow" />
+          <option value="tensorflow-estimator" />
+          <option value="tensorflow-intel" />
+          <option value="tensorflow-io-gcs-filesystem" />
+          <option value="termcolor" />
+          <option value="typing_extensions" />
+          <option value="urllib3" />
+          <option value="virtualenv" />
+          <option value="virtualenv-pyenv" />
+          <option value="Werkzeug" />
+          <option value="wrapt" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
