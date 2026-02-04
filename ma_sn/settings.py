@@ -142,4 +142,16 @@ SPECTACULAR_SETTINGS = {
     'DESCRIPTION': 'Système intelligent de routage et support client',
     'VERSION': '1.0.0',
     'SERVE_INCLUDE_SCHEMA': False,
+    'SECURITY': [{
+        'bearerAuth': [],
+    }],
+'APPEND_COMPONENTS': {
+        "securitySchemes": {
+            "bearerAuth": {
+                "type": "http",
+                "scheme": "bearer",
+                "bearerFormat": "JWT",
+            }
+        }
+    },
 }
